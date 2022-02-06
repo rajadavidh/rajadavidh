@@ -41,6 +41,11 @@ I assess software quality through manual and automated testing. My goal is to en
 
 ## 📕  Check out my latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiple inheritance dalam Python](https://techwithraja.wordpress.com/2020/08/03/multiple-inheritance-dalam-python/)
+- [Pycharm: Memperbarui Pycharm di Linux Ubuntu](https://techwithraja.wordpress.com/2020/07/20/pycharm-memperbarui-pycharm-di-linux-ubuntu/)
+- [Behave: Print trick on python behave](https://techwithraja.wordpress.com/2020/06/22/behave-print-trick-on-python-behave/)
+- [Pycharm: Mempersiapkan Pycharm untuk kombinasi Selenium dengan BDD di Mac OS dan Ubuntu 14.04](https://techwithraja.wordpress.com/2020/05/25/pycharm-mempersiapkan-pycharm-untuk-kombinasi-selenium-dengan-bdd-di-mac-os-dan-ubuntu-14-04/)
+- [Pycharm: Menginstall Pycharm di Linux Ubuntu](https://techwithraja.wordpress.com/2019/03/16/menginstall-pycharm-di-linux-ubuntu-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  [more blog posts...][wordpress]
