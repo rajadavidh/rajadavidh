@@ -5,15 +5,6 @@ I assess software quality through testing activities that include learning, expl
 
 My goal is to ensure company product solves user problem, meets business objective, and gives delightful experience to customers.
 
-## 🤝  Let's Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][kaggle]
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)][wordpress]
-
-[wordpress]: https://techwithraja.wordpress.com/
-[linkedin]: https://www.linkedin.com/in/rajadavidhasugian/
-[kaggle]: https://www.kaggle.com/rajadavidh
-
 ## 🛠  Technologies and tools I use
 ### Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,8 +14,8 @@ My goal is to ensure company product solves user problem, meets business objecti
 
 ### Libraries and Frameworks
 [![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)](https://playwright.dev/)
-[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/SeleniumHQ/selenium)
 [![RobotFramework](https://img.shields.io/badge/-Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://github.com/robotframework/robotframework)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/SeleniumHQ/selenium)
 
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -64,3 +55,12 @@ My goal is to ensure company product solves user problem, meets business objecti
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  [more blog posts...][wordpress]
+
+## 🤝  Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][kaggle]
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)][wordpress]
+
+[wordpress]: https://techwithraja.wordpress.com/
+[linkedin]: https://www.linkedin.com/in/rajadavidhasugian/
+[kaggle]: https://www.kaggle.com/rajadavidh
