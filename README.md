@@ -1,7 +1,18 @@
 # Hello there! Horas! 👋  I'm Raja David
 A software tester from Indonesia 🇮🇩 and today, I work as Software Quality Assurance Manager at [Mobileum](https://www.mobileum.com/). 
 
-I assess software quality through testing activities that includes learning, exploring, discovering, investigating, and observing. My goal is to ensure company product solves user problem, meets business objective, and gives delightful experience to customers.
+I assess software quality through testing activities that includes learning, exploring, discovering, investigating, and observing.
+
+My goal is to ensure company product solves user problem, meets business objective, and gives delightful experience to customers.
+
+## 🤝  Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][kaggle]
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)][wordpress]
+
+[wordpress]: https://techwithraja.wordpress.com/
+[linkedin]: https://www.linkedin.com/in/rajadavidhasugian/
+[kaggle]: https://www.kaggle.com/rajadavidh
 
 ## 🛠  Technologies and tools I use
 ### Languages
@@ -53,12 +64,3 @@ I assess software quality through testing activities that includes learning, exp
 <!-- BLOG-POST-LIST:END -->
 
 ➡️  [more blog posts...][wordpress]
-
-## 🤝  Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][kaggle]
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)][wordpress]
-
-[wordpress]: https://techwithraja.wordpress.com/
-[linkedin]: https://www.linkedin.com/in/rajadavidhasugian/
-[kaggle]: https://www.kaggle.com/rajadavidh
