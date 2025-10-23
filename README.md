@@ -1,9 +1,9 @@
-# Hello there! Horas! 👋  I'm Raja David
+# Hello there! 👋  I'm Raja David
 A software tester from Indonesia 🇮🇩 and today, I work as Software Quality Assurance Manager at [Mobileum](https://www.mobileum.com/). 
 
 I assess software quality through testing activities that include learning, exploring, discovering, investigating, and observing.
 
-My goal is to ensure company product solves user problem, meets business objective, and gives delightful experience to customers.
+My goal is to ensure company product solves user problem, meets business objective, and gives delightful experience to customers 🎁.
 
 ## 🛠  Technologies and tools I use
 ### Languages
